@@ -1,0 +1,12 @@
+E:\Project\Mahboubeh\Sarak\Sarak\Sarak.Data\obj\Debug\net5.0\Sarak.Data.csproj.AssemblyReference.cache
+E:\Project\Mahboubeh\Sarak\Sarak\Sarak.Data\obj\Debug\net5.0\Sarak.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Mahboubeh\Sarak\Sarak\Sarak.Data\obj\Debug\net5.0\Sarak.Data.AssemblyInfoInputs.cache
+E:\Project\Mahboubeh\Sarak\Sarak\Sarak.Data\obj\Debug\net5.0\Sarak.Data.AssemblyInfo.cs
+E:\Project\Mahboubeh\Sarak\Sarak\Sarak.Data\obj\Debug\net5.0\Sarak.Data.csproj.CoreCompileInputs.cache
+E:\Project\Mahboubeh\Sarak\Sarak\Sarak.Data\bin\Debug\net5.0\Sarak.Data.deps.json
+E:\Project\Mahboubeh\Sarak\Sarak\Sarak.Data\bin\Debug\net5.0\Sarak.Data.dll
+E:\Project\Mahboubeh\Sarak\Sarak\Sarak.Data\bin\Debug\net5.0\ref\Sarak.Data.dll
+E:\Project\Mahboubeh\Sarak\Sarak\Sarak.Data\bin\Debug\net5.0\Sarak.Data.pdb
+E:\Project\Mahboubeh\Sarak\Sarak\Sarak.Data\obj\Debug\net5.0\Sarak.Data.dll
+E:\Project\Mahboubeh\Sarak\Sarak\Sarak.Data\obj\Debug\net5.0\ref\Sarak.Data.dll
+E:\Project\Mahboubeh\Sarak\Sarak\Sarak.Data\obj\Debug\net5.0\Sarak.Data.pdb

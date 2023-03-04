@@ -1,0 +1,15 @@
+E:\Project\Mahboubeh\Sarak\Sarak\Sarak.Models\obj\Debug\net5.0\Sarak.Models.csproj.AssemblyReference.cache
+E:\Project\Mahboubeh\Sarak\Sarak\Sarak.Models\obj\Debug\net5.0\Sarak.Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Mahboubeh\Sarak\Sarak\Sarak.Models\obj\Debug\net5.0\Sarak.Models.AssemblyInfoInputs.cache
+E:\Project\Mahboubeh\Sarak\Sarak\Sarak.Models\obj\Debug\net5.0\Sarak.Models.AssemblyInfo.cs
+E:\Project\Mahboubeh\Sarak\Sarak\Sarak.Models\obj\Debug\net5.0\Sarak.Models.csproj.CoreCompileInputs.cache
+E:\Project\Mahboubeh\Sarak\Sarak\Sarak.Models\bin\Debug\net5.0\Sarak.Models.deps.json
+E:\Project\Mahboubeh\Sarak\Sarak\Sarak.Models\bin\Debug\net5.0\Sarak.Models.dll
+E:\Project\Mahboubeh\Sarak\Sarak\Sarak.Models\bin\Debug\net5.0\ref\Sarak.Models.dll
+E:\Project\Mahboubeh\Sarak\Sarak\Sarak.Models\bin\Debug\net5.0\Sarak.Models.pdb
+E:\Project\Mahboubeh\Sarak\Sarak\Sarak.Models\bin\Debug\net5.0\Sarak.Data.dll
+E:\Project\Mahboubeh\Sarak\Sarak\Sarak.Models\bin\Debug\net5.0\Sarak.Data.pdb
+E:\Project\Mahboubeh\Sarak\Sarak\Sarak.Models\obj\Debug\net5.0\Sarak.Models.csproj.CopyComplete
+E:\Project\Mahboubeh\Sarak\Sarak\Sarak.Models\obj\Debug\net5.0\Sarak.Models.dll
+E:\Project\Mahboubeh\Sarak\Sarak\Sarak.Models\obj\Debug\net5.0\ref\Sarak.Models.dll
+E:\Project\Mahboubeh\Sarak\Sarak\Sarak.Models\obj\Debug\net5.0\Sarak.Models.pdb
